@@ -17,10 +17,10 @@ Olá, sou Manoel Arruda!
 
 Atualmente estou trabalhando como Helpdesk e estou em busca de uma primeira oportunidade como Dev Front End.
 
-### 🌱 Atualmente estou aprendendo
+### Tecnologias Utilizadas
 
 HTML, CSS e JavaScript
-(<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" align="left" height="48" width="48" >)
+(<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" align="left" height="48" width="48" >)(<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" align="left" height="48" width="48" >)
 
 
 ### 📫 Aonde me encontrar
