@@ -20,6 +20,7 @@ Atualmente estou trabalhando como Helpdesk e estou em busca de uma primeira opor
 ### 🌱 Atualmente estou aprendendo
 
 HTML, CSS e JavaScript
+![JavaScript!](https://logospng.org/wp-content/uploads/javascript.png)
 
 ### 📫 Aonde me encontrar
 
