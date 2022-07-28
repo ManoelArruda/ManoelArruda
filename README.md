@@ -20,6 +20,7 @@ Atualmente estou trabalhando como Helpdesk e estou em busca de uma primeira opor
 ### 🌱 Atualmente estou aprendendo
 
 HTML, CSS e JavaScript
+![javascprit] (<img src="http://url.to/image.png" align="left" height="48" width="48" >)
 ![JavaScript!](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
 
 ### 📫 Aonde me encontrar
