@@ -20,10 +20,12 @@ Atualmente estou trabalhando como Helpdesk e estou em busca de uma primeira opor
 ### Tecnologias Utilizadas
 
 
+
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" align="center" height="48" width="48" /> <img src="https://img.icons8.com/color/344/css3.png" align="center" height="48" width="48" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" align="center" height="48" width="48" /> <img src="https://img.icons8.com/color/344/git.png" align="center" height="48" width="48" /> 
 
 
 ### 📫 Aonde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/manoelarruda/)
+- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="center" height="48" width="48" />](https://www.linkedin.com/in/manoelarruda/)
 - [E-mail](manoelarruda@outlook.com.br)
+
