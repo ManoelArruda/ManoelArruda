@@ -26,5 +26,5 @@ Atualmente estou trabalhando como Helpdesk e estou em busca de uma primeira opor
 
 ### 📫 Aonde me encontrar
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="center" height="48" width="48" />](https://www.linkedin.com/in/manoelarruda/) [<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1659381267~hmac=2143bc1075bacba361a5da927016c252" align="center" height="48" width="48" />](manoelarruda@outlook.com.br)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="center" height="48" width="48" target="_blank"/>](https://www.linkedin.com/in/manoelarruda/) [<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1659381267~hmac=2143bc1075bacba361a5da927016c252" align="center" height="48" width="48" />](manoelarruda@outlook.com.br)
 
